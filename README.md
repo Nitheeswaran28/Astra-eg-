@@ -4,3 +4,4 @@
 |---|---|---|---|
 | 1 | SOC-1 Networking Essentials | Linux networking, Wireshark, UFW | [Open lab](./SOC-1%20Networking%20Essentials/) |
 | 2 | SOC-1 Windows Essentials | Event Viewer, PowerShell, Registry | [Open lab](./SOC-1%20Windows%20Essentials/) |
+| 3 | SOC-1 Linux Essentials | Bash, systemd, SSH, Apache logs | [Open lab](./SOC-1%20Linux%20Essentials/) |
