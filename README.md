@@ -6,3 +6,4 @@
 | 2 | SOC-1 Windows Essentials | Event Viewer, PowerShell, Registry | [Open lab](./SOC-1%20Windows%20Essentials/) |
 | 3 | SOC-1 Linux Essentials | Bash, systemd, SSH, Apache logs | [Open lab](./SOC-1%20Linux%20Essentials/) |
 | 4 | Introduction to Splunk | Universal Forwarder, SPL | [Open lab](./Introduction%20to%20Splunk/) |
+| 5 | Introduction to Wazuh | Wazuh agents, MITRE ATT&CK dashboard | [Open lab](./Introduction%20to%20Wazuh/) |
