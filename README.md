@@ -8,3 +8,4 @@
 | 4 | Introduction to Splunk | Universal Forwarder, SPL | [Open lab](./Introduction%20to%20Splunk/) |
 | 5 | Introduction to Wazuh | Wazuh agents, MITRE ATT&CK dashboard | [Open lab](./Introduction%20to%20Wazuh/) |
 | 6 | Introduction to ELK | Filebeat, Winlogbeat, Kibana, KQL | [Open lab](./Introduction%20to%20ELK/) |
+| 7 | DNS Basics | dig, nslookup, DNSSEC, zone transfers | [Open lab](./DNS%20Basics/) |
