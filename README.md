@@ -9,3 +9,4 @@
 | 5 | Introduction to Wazuh | Wazuh agents, MITRE ATT&CK dashboard | [Open lab](./Introduction%20to%20Wazuh/) |
 | 6 | Introduction to ELK | Filebeat, Winlogbeat, Kibana, KQL | [Open lab](./Introduction%20to%20ELK/) |
 | 7 | DNS Basics | dig, nslookup, DNSSEC, zone transfers | [Open lab](./DNS%20Basics/) |
+| 8 | Recovering Key Git Repo Files | Git exposure, Flask, incident response | [Open lab](./Recovering%20Key%20Git%20Repo%20Files/) |
